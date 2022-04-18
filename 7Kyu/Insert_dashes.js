@@ -1,3 +1,4 @@
+function dashes(num) {
     let str = String(num).split('')
     let newlist = []
     for (let i = 0; i < str.length; i++) {
@@ -8,3 +9,4 @@
         }
     }
     return newlist.join('')
+}
