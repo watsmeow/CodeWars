@@ -1,6 +1,6 @@
 # CodeWars
-A repository to house my successful CodeWars solutions.
+A repository to house my Codewars and LeetCode algorithm practice for study and review.
 
 **My CodeWars profile:** https://www.codewars.com/users/watsmeow
 
-![image](https://user-images.githubusercontent.com/99840213/164102798-c4725630-85e1-499a-a735-945ea8d65576.png)
+**My CodeWars profile:** https://leetcode.com/user2138N/
